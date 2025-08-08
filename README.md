@@ -103,10 +103,22 @@ bmw-mercedes-prophet-forecasting/
 │   ├── data_processing.py
 │   ├── model_training.py
 │   └── visualization.py
-└── results/
-    ├── forecasts/
-    └── visualizations/
+├── results/
+│   ├── forecasts/
+│   └── visualizations/
+└── documentation/
+    └── Code_Documentation_Facebook_Prophet.pdf
 ```
+
+## 📄 Documentation
+
+This project includes comprehensive PDF documentation that provides:
+- **Detailed Methodology**: Step-by-step implementation guide
+- **Code Explanations**: In-depth analysis of key algorithms
+- **Results Analysis**: Detailed interpretation of forecasting results
+- **Validation Procedures**: Complete backtesting methodology
+
+**📖 View Documentation**: [Code_Documentation_Facebook_Prophet.pdf](documentation/Code_Documentation_Facebook_Prophet.pdf)
 
 ## 🔬 Research Applications
 
